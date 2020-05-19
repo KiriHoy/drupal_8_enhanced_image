@@ -1,0 +1,17 @@
+{
+  "name": "drupal/ckeditor_image2",
+  "type": "drupal-module",
+  "description": "Integrates the CKEditor \"Enhanced Image\" plugin.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "http://drupal.org/project/ckeditor_tabletoolstoolbar",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Oleksandr Milkovskyi (a.milkovsky)",
+      "homepage": "https://www.drupal.org/u/amilkovsky",
+      "role": "Maintainer"
+    }
+  ],
+
+}
