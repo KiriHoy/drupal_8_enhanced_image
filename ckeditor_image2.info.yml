@@ -1,7 +1,0 @@
-name: CKEditor Image2
-description: Integrates the CKEditor "Image2" plugin.
-package: CKEditor
-type: module
-core: 8.x
-dependencies:
-- ckeditor
