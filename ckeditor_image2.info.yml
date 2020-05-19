@@ -1,5 +1,5 @@
-name: CKEditor Image2
-description: Integrates the CKEditor "Image2" plugin.
+name: CKEditor Enhanced Image Plugin
+description: Integrates the CKEditor "Enhanced Image" plugin.
 package: CKEditor
 type: module
 core: 8.x
