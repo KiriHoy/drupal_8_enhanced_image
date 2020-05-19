@@ -1,5 +1,5 @@
 {
-  "name": "drupal/ckeditor_image2",
+  "name": "kirihoy/Drupal-8-Enhanced-Image",
   "type": "drupal-module",
   "description": "Integrates the CKEditor \"Enhanced Image\" plugin.",
   "keywords": ["Drupal"],
