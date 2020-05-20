@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\ckeditor_image2\Plugin\CKEditorPlugin;
+namespace Drupal\drupal_8_enhanced_image\Plugin\CKEditorPlugin;
 
 use Drupal\ckeditor\CKEditorPluginBase;
 use Drupal\editor\Entity\Editor;
@@ -13,7 +13,7 @@ use Drupal\editor\Entity\Editor;
  *   label = @Translation("Image 2")
  * )
  */
-class image2 extends CKEditorPluginBase {
+class Drupal8EnhancedImage extends CKEditorPluginBase {
 
   /**
    * {@inheritdoc}
@@ -35,7 +35,7 @@ class image2 extends CKEditorPluginBase {
    */
   public function getButtons() {
     return [
-    'image2' => [
+    'Image' => [
       'label' => t('image'),
       'image' => base_path() . 'libraries/image2/icons/image.png',
     ]
